@@ -19,7 +19,8 @@ The system generalized and converged beautifully by only securely sharing learne
 * **Round 1 Global Accuracy:** 90.34%
 * **Round 5 Global Accuracy:** 96.16%
 
-![Federated Learning Results](federated_AIOT.png.png)
+![Federated Learning Results](federated_AIOT.png)
+
 *(Please upload the saved matplotlib graph image to this repository and name it `federated_training_results.png` to display here)*
 
 ## 📡 Authentic Real-Time Edge Inference
